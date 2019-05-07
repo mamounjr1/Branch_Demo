@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Mamou
+ * @author Mamou,2019
  */
 public class StudentDemo {
 
